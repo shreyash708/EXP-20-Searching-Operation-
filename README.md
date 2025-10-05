@@ -13,7 +13,7 @@ This is the simplest search technique.
 
 Mechanism: It checks every element in the list or array one by one, starting from the beginning, until the target element is found or the end of the list is reached.
 
-# Sequential Search 
+# Sequential Search :
 
 The sequential search algorithm works by examining every element in the list or array one by one, in sequence, until one of two conditions is met:
 
